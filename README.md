@@ -1,4 +1,4 @@
-# Clothing Store Management Website - Demo CRUD
+# Clothing Store Management Website - CRUD
 
 This is a simple basic website about CRUD features to **create**, **view**, **edit** and **delete** clothes for the final project.
 
