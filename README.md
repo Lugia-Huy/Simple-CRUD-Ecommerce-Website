@@ -3,10 +3,6 @@
 This is a simple basic website about CRUD features to **create**, **view**, **edit** and **delete** clothes for the final project.
 
 ## Installation
-
-Download the **clothes-management-demo.zip** file and extract it to xampp's htdocs folder.
-
-In the extracted folder, open **Terminal** (**CMD or Git Bash**), type the following command to install composer dependencies:
 ```bash
 composer install
 ```
